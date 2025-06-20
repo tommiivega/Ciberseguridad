@@ -1,0 +1,8 @@
+# No se requieren dependencias externas
+# El proyecto usa solo bibliotecas estándar de Python:
+# - hashlib
+# - urllib.request
+# - urllib.error
+# - random
+# - secrets
+# - tkinter 
